@@ -1,2 +1,1 @@
-# DofoAPI
-API's for the company of Dofo.
+API to upload image
